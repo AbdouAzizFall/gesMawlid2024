@@ -97,6 +97,16 @@
                     </div>
                 </div>
             </div>
+            <!-- Bouton Statistiques -->
+            <div class="col-md-4 mb-4">
+                <div class="card card-custom">
+                    <div class="card-body">
+                        <h5 class="card-title">Statistiques</h5>
+                        <p class="card-text">Récapitulatif des cotisations par catégories.</p>
+                        <a href="../liens/statistiques.php" class="btn btn-custom">Voir les Statistiques</a>
+                        </div>
+                </div>
+            </div>
         </div>
     </div>
 

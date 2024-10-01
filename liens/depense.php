@@ -96,7 +96,7 @@
         require_once '../conn/connection.php'; // Assurez-vous que le chemin est correct
 
         // Requête pour obtenir toutes les dépenses
-        $sql = "SELECT * FROM depenses ORDER BY date DESC";
+        $sql = "SELECT * FROM depenses";
         $stmt = $db->query($sql);
         $depenses = $stmt->fetchAll(PDO::FETCH_ASSOC);
 

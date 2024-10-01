@@ -70,7 +70,7 @@
         </div>
     </nav>
 
-    <!-- Main Content -->
+   
     <div class="container">
         <h1 class="my-4">Ajouter une Participation</h1>
         <form action="traitement_ajouter_participation.php" method="POST">
